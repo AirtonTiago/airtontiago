@@ -1,6 +1,4 @@
-%### Hi there 👋
-
-# Hello, folks! My name is Airton Tiago <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! My name is Airton Tiago 👋
 
 A hard-working data scientist with 4+ years of professional experience in solving cross-industry business problems and enabling data-centric decision making for the 10th largest bank in the world by market value.
 
