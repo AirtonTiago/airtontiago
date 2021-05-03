@@ -7,9 +7,13 @@ Airton is a data scientist with 4+ years of professional experience in solving c
 
 **Specialties:**
 • Python / SAS / SQL / R
+
 • Big data analysis using Hadoop / Hive
+
 • Machine Learning, Deep Learning and Statistics with Python (scikit-learn, pandas, numpy, seaborn, dash, etc)
+
 • Git
+
 • Basic knowledge of cloud (AWS / Azure)
 
 
