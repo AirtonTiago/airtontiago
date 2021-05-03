@@ -1,11 +1,13 @@
 # Hello, folks! My name is Airton Tiago 👋
 
-Airton is a data scientist with 4+ years of professional experience in solving cross-industry business problems and enabling data-centric decision making. He is working for XING, the largest online business network in Germany, Austria, and Switzerland with 19 million members. His post graduate program in Data Science was obtained at Instituto Tecnológico de Aeronáutica - ITA, while researching NLP in order to classify airport customer complaints in Brazil.
+I'm a data scientist with 4+ years of professional experience in solving cross-industry business problems and enabling data-centric decision making. I'm working for XING, the largest online business network in Germany, Austria, and Switzerland with 19 million members. My post graduate program in Data Science was obtained at Instituto Tecnológico de Aeronáutica - ITA, while researching NLP in order to classify airport customer complaints in Brazil.
 
 **Dual citizenship :**
+
 • Brazilian/Portuguese
 
 **Specialties:**
+
 • Python / SAS / SQL / R
 
 • Big data analysis using Hadoop / Hive
