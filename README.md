@@ -1,16 +1,19 @@
 # Hello, folks! My name is Airton Tiago 👋
 
-A hard-working data scientist with 4+ years of professional experience in solving cross-industry business problems and enabling data-centric decision making for the 10th largest bank in the world by market value.
+Airton is a data scientist with 4+ years of professional experience in solving cross-industry business problems and enabling data-centric decision making. He is working for XING, the largest online business network in Germany, Austria, and Switzerland with 19 million members. His post graduate program in Data Science was obtained at Instituto Tecnológico de Aeronáutica - ITA, while researching NLP in order to classify airport customer complaints in Brazil.
 
-**Dual citizenship :** Brazilian/Portuguese (on going - expected to be finalized in April/2021)
+**Dual citizenship :**
+• Brazilian/Portuguese
 
-Experienced in the real world application of machine learning methods and algorithms.
+**Specialties:**
+• Python / SAS / SQL / R
+• Big data analysis using Hadoop / Hive
+• Machine Learning, Deep Learning and Statistics with Python (scikit-learn, pandas, numpy, seaborn, dash, etc)
+• Git
+• Basic knowledge of cloud (AWS / Azure)
 
-Programming skills in the following languages: Python, SQL and SAS. I also have studied the basics of R, Java and Matlab/Octave.
 
-Knowledge in distributed computing in the Hadoop ecosystem (mainly Hive).
-
-📫 How to reach me: airton.tiago@gmail.com
+📫 **How to reach me**: airton.tiago@gmail.com
 
 
 <!--
