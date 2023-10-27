@@ -2,7 +2,7 @@
 
 Airton is a data scientist with 5+ years of professional experience in solving cross-industry business problems and enabling data-centric decision-making. 
 
-He is working for XING, the largest online business network in Germany, Austria, and Switzerland with over 21 million members. 
+He is working for kununu, the leading online platform for transparent employer and salary insights in German-speaking countries. kununu delivers free, anonymous reviews containing authentic insights from employees and applicants to help you boost your job satisfaction and fulfilment.
 
 His post-graduate program in Data Science was obtained at Instituto Tecnológico de Aeronáutica - ITA, while researching NLP in order to classify airport customer complaints in Brazil. He is currently pursuing a master's in Computer Vision at FEUP.
 
