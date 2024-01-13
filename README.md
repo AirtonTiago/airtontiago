@@ -1,5 +1,7 @@
 # Welcome, folks! 👋
 
+As a Data Scientist with over 7 years of professional experience, I specialize in addressing diverse business challenges across various industries through data-centric solutions. My expertise lies in transforming complex data into actionable insights, driving decision-making and business growth.
+<!--
 Airton is a data scientist with 5+ years of professional experience in solving cross-industry business problems and enabling data-centric decision-making. 
 
 He is working for kununu, the leading online platform for transparent employer and salary insights in German-speaking countries. kununu delivers free, anonymous reviews containing authentic insights from employees and applicants to help you boost your job satisfaction and fulfilment.
@@ -28,7 +30,7 @@ His post-graduate program in Data Science was obtained at Instituto Tecnológico
 📫 **How to reach me**: airton.tiago@gmail.com
 
 
-<!--
+
 **AirtonTiago/airtontiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
